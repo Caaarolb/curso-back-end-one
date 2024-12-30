@@ -2,23 +2,6 @@
 
 Este repositório contém os projetos e exercícios realizados durante o curso **Back-End One**. Aqui você encontrará exemplos práticos e aplicações que exploram conceitos fundamentais para o desenvolvimento de back-end.
 
-## 📋 Conteúdo do Repositório
-
-1. **Introdução ao Back-End**
-   - Configuração do ambiente.
-   - Estrutura básica de uma aplicação.
-
-2. **Manipulação de Dados**
-   - Operações CRUD.
-   - Integração com bancos de dados.
-
-3. **APIs e Serviços**
-   - Criação de APIs RESTful.
-   - Autenticação e autorização.
-
-4. **Testes**
-   - Introdução a testes unitários.
-   - Ferramentas de teste para back-end.
 
 ## 🚀 Tecnologias Utilizadas
 
